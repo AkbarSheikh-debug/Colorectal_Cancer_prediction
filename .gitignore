@@ -1,0 +1,6 @@
+venv/
+artifacts/raw/
+artifacts/processed/
+artifacts/models/
+atifacts/model_checkpoint/
+Colorectal_Cancer_Prediction.egg-info/

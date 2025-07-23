@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Desktop/Data_Science/Advance_Learning/Advance_MLOP%27s/Colorectal_Cancer_Prediction/mlruns/0/4696ce537f3c4dd3a6ff81aeffd67867/artifacts
+end_time: 1753304757170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4696ce537f3c4dd3a6ff81aeffd67867
+run_name: flawless-robin-89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753304746323
+status: 3
+tags: []
+user_id: User
